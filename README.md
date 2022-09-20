@@ -1,3 +1,3 @@
-# PRO-C166-TA
+# PROFESIONAL-C166-AM2
 
-Teacher Activity for C166
+Actividad de la maestra 2 para C166
